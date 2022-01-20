@@ -21,7 +21,7 @@ The Hawaii Annual Code Challenge is an annual event that presents groups of deve
 
 The web application that my group created was called "Catbot". It is chatbot that would provide the user an insight into the many benefits that the Office of Hawaiian Affairs can provide, including loans, grants, and scholarships. The catbot is easy to use because it produces interactive buttons when it recognizes a broad statement regarding a topic. The web application utilized Google's Dialogflow in order to take user input and provide a suitable answer. React, Meteor, Semantic UI, MongoDB, JavaScript, and HTML/CSS were all utilized in order to develop the web application. Below is an image of the landing page.
 
-<img class="ui image" src="{{ site.baseurl }}/images/landingpage.png">
+<img class ="ui image" src="/images/landingpage.png">
 
 ## What I learned
 
