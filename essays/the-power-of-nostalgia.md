@@ -10,6 +10,7 @@ labels:
   - JavaScript
 ---
 
+<img class ="ui image" src="/images/hourglass.jpg">
 
 ## Close Contact
 
