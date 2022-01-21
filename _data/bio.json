@@ -86,20 +86,6 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "Mathnasium of Waialae",
-      "position": "Instructor",
-      "website": "https://www.mathnasium.com/waialae",
-      "startDate": "2021",
-      "endDate": "Present",
-      "summary": "Teach math concepts to students pre K-12",
-      "highlights": [
-        "Instruct, guide and correct students with regards to any mathematical concept",
-        "Ensure tidiness and organization of Mathnasium center"
-      ]
-    }
-  ],
   "activities": [
     {
       "organization": "Data Specialist, Hawaii Annual Code Challenge",
@@ -130,6 +116,20 @@
       "highlights": [
         "Managed and updated Unit-HI921 website",
         "Record all digital media for Unit-HI921 events"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Mathnasium of Waialae",
+      "position": "Instructor",
+      "website": "https://www.mathnasium.com/waialae",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "Teach math concepts to students pre K-12",
+      "highlights": [
+        "Instruct, guide and correct students with regards to any mathematical concept",
+        "Ensure tidiness and organization of Mathnasium center"
       ]
     }
   ],
