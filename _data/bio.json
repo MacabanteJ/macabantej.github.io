@@ -102,6 +102,16 @@
   ],
   "activities": [
     {
+      "organization": "Data Specialist, Hawaii Annual Code Challenge",
+      "website": "hacc.hawaii.gov/",
+      "date": "2021",
+      "summary": "Helped develop a chat bot for the Office of Hawaiian Affairs",
+      "highlights": [
+        "Trained Dialogflow model to produce responses based on user input",
+        "Made it to the finals"
+      ]
+    },
+    {
       "organization": "AFJROTC Team Leader, Cyber Patriot",
       "website": "www.uscyberpatriot.org/",
       "startDate": "2018",
