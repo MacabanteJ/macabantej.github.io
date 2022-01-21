@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/mathnasium.jpg
+image: images/mathnasium.png
 title: mathnasium
 permalink: projects/mathnasium
 # All dates must be YYYY-MM-DD format!
