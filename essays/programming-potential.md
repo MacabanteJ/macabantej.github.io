@@ -6,11 +6,10 @@ title: Programming Potential
 date: 2022-01-20
 labels:
   - Software Engineering
-  - Learning
-  - JavaScript
+  - Goals
 ---
 
-<img class ="ui image" src="/images/hourglass.jpeg">
+<img class ="ui image" src="/images/gaming.jpeg">
 
 ## Desire
 
