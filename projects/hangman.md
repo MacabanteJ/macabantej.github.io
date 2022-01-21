@@ -10,7 +10,7 @@ labels:
   - Java
 summary: A hangman game developed for AP Computer Science.
 ---
-
+<img class ="ui image" src="/images/hangman0.jpg">
 ## Passion
 
 In an AP Computer Science I took as a Junior in high school, we were tasked with finishing a hangman program. It was a Java program in which we had to write a Hangman class that would be able to check for win and loss conditions, display the amount of the body that was “hanging”, and be able to take user input in order to actually progress through the game. I added an additional feature in which the user would be able to play by themselves or with another person. If the user chose to play solo, the game would choose randomly from an existing array of words, while in multiplayer, a second person could choose the word that the first person would have to guess. I thought that the project was interesting so I put a lot of time into making sure that I understood each aspect of the code and it was the first time in my life I felt the success of completing a difficult software project.
