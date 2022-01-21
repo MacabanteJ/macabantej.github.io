@@ -9,7 +9,7 @@ labels:
   - Goals
 ---
 
-<img class ="ui image" src="/images/gaming.jpeg">
+<img class ="ui image" src="/images/gaming.jpg">
 
 ## Desire
 
