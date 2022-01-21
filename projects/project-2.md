@@ -5,21 +5,19 @@ image: images/vacay-square.png
 title: Vacay
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-6-24
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Math
+  - Communication
+  - Job
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+## What is Mathnasium?
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Mathnasium is a math learning franchise that has over 1,000 centers that span North America, South America, Europe, the Middle East, and Asia. The goal of Mathnasium is to provide math instruction to students from pre-kindergarten all the way through high school. Mathnasium focuses on teaching math as a thought process as opposed to memorization and techniques. We strive to impart a logical thinking process and the tools to solve more than just math problems.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+## What I Learned
+
+I am an instructor at the Mathnasium of Waialae. Throughout this amazing opportunity, I have been able to interact with kids ranging from 4 years old all the way through current high school Seniors. I have taught math concepts ranging from the four basic operations to partial fraction decomposition. Being able to teach a variety of students allows me to see different perspectives of math. My skills in communication have evolved because of the diverse age range of students that I see multiple times a week. 
