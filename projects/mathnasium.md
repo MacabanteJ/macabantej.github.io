@@ -5,7 +5,7 @@ image: images/mathnasium.png
 title: mathnasium
 permalink: projects/mathnasium
 # All dates must be YYYY-MM-DD format!
-date: 2021-6-24
+date: 2021-06-24
 labels:
   - Math
   - Communication
