@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/mathnasium.png
 title: Vacay
-permalink: projects/vacay
+permalink: projects/mathnasium
 # All dates must be YYYY-MM-DD format!
 date: 2021-6-24
 labels:
@@ -12,6 +12,8 @@ labels:
   - Job
 summary: I teach math!
 ---
+
+<img class ="ui image" src="/images/mathnasiumkid.png">
 
 ## What is Mathnasium?
 
