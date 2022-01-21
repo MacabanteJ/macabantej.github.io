@@ -88,8 +88,9 @@
   ],
   "volunteer": [
     {
-      "organization": "Data Specialist, Hawaii Annual Code Challenge",
+      "organization": "Hawaii Annual Code Challenge",
       "website": "hacc.hawaii.gov/",
+      "position": "Data Specialist",
       "date": "2021",
       "summary": "Helped develop a chat bot for the Office of Hawaiian Affairs",
       "highlights": [
@@ -98,8 +99,9 @@
       ]
     },
     {
-      "organization": "AFJROTC Team Leader, Cyber Patriot",
+      "organization": "Cyber Patriot",
       "website": "www.uscyberpatriot.org/",
+      "position": "AFJROTC Team Commander",
       "startDate": "2018",
       "endDate": "2020",
       "summary": "Lead team during Cyber Patriot competitions",
@@ -109,7 +111,8 @@
       ]
     },
     {
-      "organization": "Director of Public Affairs, AFJROTC-HI921",
+      "organization": "AFJROTC-HI921",
+      "position": "Director of Public Affairs",
       "startDate": "2019",
       "endDate": "2020",
       "summary": "Handle media affairs regarding the entire HI-921 Unit",
