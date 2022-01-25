@@ -91,7 +91,8 @@
       "organization": "Hawaii Annual Code Challenge",
       "website": "hacc.hawaii.gov/",
       "position": "Data Specialist",
-      "date": "2021",
+      "startDate": "2021",
+      "endDate": "2021",
       "summary": "Helped develop a chat bot for the Office of Hawaiian Affairs",
       "highlights": [
         "Trained Dialogflow model to produce responses based on user input",
@@ -139,7 +140,8 @@
   "awards": [
     {
       "title": "Dean's List",
-      "date": "2020-Present",
+      "startDate": "2020",
+      "endDate": "Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Undergraduate students are awarded the Dean's List distinction when they have earned a semester GPA of 3.5 or higher and were enrolled in 12 or more credits for a grade."
     }
