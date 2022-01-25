@@ -140,8 +140,7 @@
   "awards": [
     {
       "title": "Dean's List",
-      "startDate": "2020",
-      "endDate": "Present",
+      "date": "2020-Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Undergraduate students are awarded the Dean's List distinction when they have earned a semester GPA of 3.5 or higher and were enrolled in 12 or more credits for a grade."
     }
