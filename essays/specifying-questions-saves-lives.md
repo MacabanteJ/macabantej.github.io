@@ -16,7 +16,7 @@ labels:
 
 I am a very curious person - and I mean VERY curious. Once I get interested about a topic, I make sure that I fully understand every aspect of it’s inner workings. Throughout the initial COVID-19 quarantine in the United States, just like millions of other Americans, I had picked up on a new hobby. Unlike many Americans, however, that hobby was keyboards. I had developed the need to have the best keyboard that I could in terms of comfortability, performance, and aesthetics, all because it was a tool that I knew I would be using for the rest of my life. I had researched about every type of keyboard, the different sizes, the different switches, etc. 
 
-<img class="ui medium right floated image" src ="/images/keyboardLayouts.png">
+<img class="ui large right floated image" src ="/images/keyboardLayouts.png">
 In case you were wondering, keyboards have different sizes that fit different needs. Someone without a lot of desk space would rather have a smaller keyboard than having a “Print Screen” button; thus, sizes like “60%” and “80%” have been more popularized.
 
 After extensive research, I had realized that I still had no clue what kind of keyboard would suit me the best. I knew that I wanted an “80%” keyboard because my desk is miniscule in size; however, I didn’t know how I wanted the keyboard to feel.
