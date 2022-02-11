@@ -8,7 +8,7 @@ labels:
 - Coding Standards
 ---
 
-<img class ="ui image" src="/images/gaming.jpg">
+<img class ="ui image" src="/images/code2.png">
 
 ## Clean Code
 
