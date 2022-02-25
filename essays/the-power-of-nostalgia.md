@@ -23,3 +23,6 @@ When I was a Junior at Moanalua High School, I took AP Computer Science. Prior t
 ## Stress
 
 After taking multiple programming courses and developing multiple pieces of software, I have found that coding is time consuming. The cycle of programming that I have experienced consists of typing out huge chunks of code at a time, hoping that it works as you hit the “run” button, and slowly dying inside when the code doesn’t even compile. The failure of programming is often more exaggerated as the time ticks away for an assignment that is due in half an hour. In order for one to be prepared in a time crunch, practice makes perfect. The University of Hawai'i’s ICS314 class has daily assignments called “WODs”, where students are given a short time frame to solve a coding challenge. These WODs are great for being able to push past your theoretical “limits” and teach you to be cool under pressure. They are super helpful and I would recommend others to practice solving coding problems under time pressure, in order to develop critical thinking skills.
+
+
+
