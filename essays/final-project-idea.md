@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Final Project
 ---
-_In collaboration with [Bret Witt](https://bretwitt.github.io/)._
+_Authored by Jericho Macabante and [Bret Witt](https://bretwitt.github.io/)._
 
 # Overview
 The problem:
