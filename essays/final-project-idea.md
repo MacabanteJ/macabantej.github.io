@@ -11,7 +11,7 @@ labels:
 _Authored by Jericho Macabante and [Bret Witt](https://bretwitt.github.io/)._
 
 # Overview
-<img class ="ui small right floated rounded image" src="/images/spotify-logo.png">
+<img class ="ui medium right floated rounded image" src="/images/spotify-logo.png">
 The problem:
 While studying, working out, or doing various activities, students would like to listen to appropriate music, but are not sure how to efficiently explore songs for certain situations. Students may also want to know what their peers are listening to just to spice up their own playlists.
 
