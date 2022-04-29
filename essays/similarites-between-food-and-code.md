@@ -21,6 +21,8 @@ After learning about design patterns and some of the more common ones, I realize
 
 Previously, I had dived into a side project regarding OpenCV and image recognition in the hopes of creating a bot that could perform automated tasks in a simple video game. I have not been able to find the code for it yet; however, I remember that I had created an “event handler” in the form of checking the status of the screen as the subject. Once certain buttons were visible on the screen, the bot would click them in a predetermined order. The subject kept changing but the bot was able to perform the necessary actions. 
 
+<img class="ui image" src="/images/observer.png">
+
 The Observer design pattern allowed me to have as many dependencies as I needed based on the status of the screen. This simplified the process of handling each status of the screen as its own event. I was also able to easily debug any problems because each dependency was contained. For example, if a button was not being pressed, I would be able to easily identify if it was the image recognition for that certain button or if it was the event handler failing.
 
 Design patterns have allowed me to create a structured solution to any program that I may have to create. Without it, there would be lots of “dead code”, in the form of unused variables and obsolete classes.
