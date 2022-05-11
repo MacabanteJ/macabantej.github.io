@@ -21,7 +21,7 @@ The purpose of Issue Driven Project Management is that it is flexible and quick.
 
 ## Ethics
 
-“Moral principles that govern a person’s behavior or the conducting of an activity.” As software engineers, we develop applications in order to propagate good in the world; however, there are always ways for technology to be exploited for malicious intent. The {Association for Computing Machinery}(https://www.acm.org/code-of-ethics) has drafted a ‘Code of Ethics’ in order to enforce responsible dissemination of code in order to consistently support the public good.
+“Moral principles that govern a person’s behavior or the conducting of an activity.” As software engineers, we develop applications in order to propagate good in the world; however, there are always ways for technology to be exploited for malicious intent. The [Association for Computing Machinery](https://www.acm.org/code-of-ethics) has drafted a ‘Code of Ethics’ in order to enforce responsible dissemination of code in order to consistently support the public good.
 
 To summarize, the code emphasizes that computing professionals should have a benefit for society, the people in it, and the environment. Professionals should be transparent, treat everyone fairly, and respect privacy. Then the code talks about the technical aspects a computing professional should think about, but I will not be going into that. Before reading this, I never thought about the implications of widespread technology and the impact that it could have on our society. 
 
