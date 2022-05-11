@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: Similarities Between Food and Code
+title: Issue with Ethics
 # All dates must be YYYY-MM-DD format!
-date: 2022-04-28
+date: 2022-05-11
 labels:
   - Programming
-  - Baking
-  - Design Patterns
-  - Observer
+  - Ethics
+  - Phishing
+  - Issue Driven Project Management
 ---
 
 ## Issues
