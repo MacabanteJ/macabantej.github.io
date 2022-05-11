@@ -15,7 +15,7 @@ labels:
 
 During my ICS314 Software Engineering class at the University of Hawaii at Manoa, we learned about Issue Driven Project Management. Issue Driven Project Management is a method of managing a project that allows the group to develop concrete issues that may pop up during the lifespan of the project, quickly highlighting problems to the entire group. When an issue arises, someone in the project may log it down and even assign it to themselves to solve it.
 
-<img src="https://prince2.wiki/img/issue-register-sample.png">
+<img class="ui medium centered image" src="https://prince2.wiki/img/issue-register-sample.png">
 
 Although we may have used it in our final project during the process of developing a web application, this type of project management can be utilized in almost any type of project. Even if the project were an arts and crafts project that only took an hour, the crafter may find that they need to buy more glue, or lack the proper grit sandpaper, or even that they need to redo the craft because of a faulty base. These are all issues that can be logged down and solved. 
 
