@@ -25,8 +25,10 @@ The purpose of Issue Driven Project Management is that it is flexible and quick.
 
 To summarize, the code emphasizes that computing professionals should have a benefit for society, the people in it, and the environment. Professionals should be transparent, treat everyone fairly, and respect privacy. Then the code talks about the technical aspects a computing professional should think about, but I will not be going into that. Before reading this, I never thought about the implications of widespread technology and the impact that it could have on our society. 
 
-### Scams are bad
+## Scams are bad
 
 Evaldas Rimaskauskas set up a phishing scam that duped huge companies out of over $100 million. Phishing is an attack whereby the attacker pretends to be a trusted company or identity and tricks a victim into opening an email, allowing the attack to steal crucial data such as login credentials and credit card numbers. Evaldas had a fake company where he served as the sole member of the board of directors and sent emails to employees at Facebook and Google, masquerading as invoices, prompting big companies to payout millions of dollars at a time.
+
+## Our Role as Computing Professionals
 
 Technology has propagated the welfare of mankind but a bright light always casts a dark shadow. As computing professionals, we need to be vigilant in ensuring that our technology does not harm others, treat others unfairly, or take advantage of anyone especially in the age of global communication.
