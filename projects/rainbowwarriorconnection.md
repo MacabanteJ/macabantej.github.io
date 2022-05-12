@@ -21,11 +21,11 @@ The [Rainbow Warrior Connection](http://159.89.232.121/#/) is a web application 
 
 ## Rainbow Warrior Connection
 
-<img class ="ui big image" src="/images/rainbowwarriorconnection-homepage.png">
+<img class ="ui image" src="/images/rainbowwarriorconnection-homepage.png">
 
 Through the web application, students and companies are able to create profiles, detailing their location, basic information, and a short description. Student are also able to browse through the companies that have been inputted, along with job opportunities that company may have added to their page. Companies can browse through the list of signed up students, filtering out their interests or directly searching their name up.
 
-<img class ="ui big image" src="/images/rainbowwarriorconnection-browse-companies.png">
+<img class ="ui image" src="/images/rainbowwarriorconnection-browse-companies.png">
 
 ## What I contributed
 
