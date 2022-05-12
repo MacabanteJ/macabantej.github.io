@@ -29,7 +29,7 @@ Through the web application, students and companies are able to create profiles,
 
 ## What I contributed
 
-I developed the collections associated with the jobs and the companies attached to them. This includes connecting the form on the "Add Job" page to the actual MongoDB collection, connecting the proper jobs with the proper companies in the collections, and formatting the information from the jobs collections to be used in the frontend company profile pages. I also drafted up the company home and profile page.
+I developed the collections associated with the jobs and the companies attached to them. This includes connecting the form on the "Add Job" page to the actual MongoDB collection, connecting the proper jobs with the proper companies in the collections, and formatting the information from the jobs collections to be used in the frontend company profile pages. I also drafted up the company home and profile page early on in development.
 
 ## What I learned
 
