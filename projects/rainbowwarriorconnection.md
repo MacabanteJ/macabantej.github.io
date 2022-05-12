@@ -33,6 +33,6 @@ I developed the collections associated with the jobs and the companies attached 
 
 ## What I learned
 
-I was fortunate to learn about and implement Issue Driven Project Management during the development of this project. I also learned a lot about web development, the utilization of Meteor and React, and the power of MongoDB and its collections. Overall, this project was important to my growth as a computing professional.
+I was fortunate to learn about and implement Issue Driven Project Management during the development of this project. I also learned a lot about web development, the utilization of Meteor and React, and the power of MongoDB and its collections. I also got plenty of practice with debugging a web application, as it is a bit more complex than simply placing outputs to the console all over the code to see what runs. Overall, this project was important to my growth as a computing professional.
 
 The project repository can be found [here](https://github.com/rainbowwarriorconnection).
