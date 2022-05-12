@@ -15,18 +15,24 @@ labels:
 summary: A web application developed to connect students and companies.
 ---
 
-## HACC 2021
+## Final Project Overview
 
-The Hawaii Annual Code Challenge is an annual event that presents groups of developers real world problems for them to solve through a web application. There were different challenges that each team could choose from, which would affect the web application that group would create. The competition spans multiple weeks and consists of two rounds of competition. The first round mainly judges the implementation of the application. The second round consists of team presentations to a live panel of judges.
+The [Rainbow Warrior Connection](http://159.89.232.121/#/) is a web application developed as our Final Project for the ICS314 Software Engineering course at the University of Hawaii at Manoa. It is [designed](https://courses.ics.hawaii.edu/ics314s22/morea/final-project/reading-project-company-connector.html) to connect local computer science and engineering students with companies that have job opportunities. 
 
-## Catbot
+## Rainbow Warrior Connection
 
-The web application that my group created was called "Catbot". It is a chatbot that would provide the user an insight into the many benefits that the Office of Hawaiian Affairs can provide, including loans, grants, and scholarships. The catbot is easy to use because it produces interactive buttons when it recognizes a broad statement regarding a topic. The web application utilized Google's Dialogflow in order to take user input and provide a suitable answer. React, Meteor, Semantic UI, MongoDB, JavaScript, and HTML/CSS were all utilized in order to develop the web application. My contribution toward the project consisted of training the Dialogflow in order for the catbot to provide suitable and coherent responses. Below is an image of the landing page.
+<img class ="ui big image" src="/images/rainbowwarriorconnection-homepage.png">
 
-<img class ="ui image" src="/images/landingpage.png">
+Through the web application, students and companies are able to create profiles, detailing their location, basic information, and a short description. Student are also able to browse through the companies that have been inputted, along with job opportunities that company may have added to their page. Companies can browse through the list of signed up students, filtering out their interests or directly searching their name up.
+
+<img class ="ui big image" src="/images/rainbowwarriorconnection-browse-companies.png">
+
+## What I contributed
+
+I developed the collections associated with the jobs and the companies attached to them. This includes connecting the form on the "Add Job" page to the actual MongoDB collection, connecting the proper jobs with the proper companies in the collections, and formatting the information from the jobs collections to be used in the frontend company profile pages. I also drafted up the company home and profile page.
 
 ## What I learned
 
-This is my first experience developing an application in a team. I was able to learn about how to effectively communicate with others in regards to a project. I also learned how to utilize Dialogflow and train it in order to produce answers that didn't seem super robotic and static.
+I was fortunate to learn about and implement Issue Driven Project Management during the development of this project. I also learned a lot about web development, the utilization of Meteor and React, and the power of MongoDB and its collections. Overall, this project was important to my growth as a computing professional.
 
-The project repository can be found [here](https://github.com/catjams/catbot).
+The project repository can be found [here](https://github.com/rainbowwarriorconnection).
