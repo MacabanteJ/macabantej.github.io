@@ -2,11 +2,11 @@
   "basics": {
     "name": "Jericho Macabante",
     "label": "Student",
-    "picture": "https://macabantej.github.io/images/ProfilePic.png",
+    "picture": "https://macabantej.github.io/images/profilepic.png",
     "email": "jmacaban@hawaii.edu",
     "phone": "",
     "website": "https://macabantej.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii and expect to graduate in Spring, 2024. I love solving complex problems and crocheting.",
     "location": {
       "address": "",
       "postalCode": "96819",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Cyber Security",
+      "name": "Data Science",
       "keywords": [
       ]
     }
@@ -53,7 +53,10 @@
         "C++",
         "Java",
         "Javascript",
-        "Python"
+        "Python",
+        "SQL",
+        "React",
+        "Electron"
       ]
     },
     {
@@ -73,10 +76,10 @@
       "studyType": "B.S.",
       "startDate": "2020-08-15",
       "endDate": "Present",
-      "gpa": "3.77",
+      "gpa": "3.59",
       "courses": [
-        "ICS212/211",
-        "ICS241/141"
+        "ICS434: Data Science Fundamentals",
+        "ICS451: Data Networks"
       ]
     },
     {
@@ -93,67 +96,79 @@
   ],
   "volunteer": [
     {
+      "organization": "University of Hawaii Rainbwo Warrior Marching Band",
+      "position": "Low Brass Section Leader",
+      "startDate": "May 2022",
+      "endDate": "Present",
+      "summary": "Lead low brass section throughout the season, acting as a medium of communication between the section and Music Directors.",
+      "highlights": [
+        "Plan and lead all low brass sectionals",
+        "Brief and prepare section for upcoming events and performances"
+      ]
+    },
+    {
       "organization": "Hawaii Annual Code Challenge",
       "website": "hacc.hawaii.gov/",
       "position": "Data Specialist",
-      "startDate": "2021",
-      "endDate": "2021",
-      "summary": "Helped develop a chat bot for the Office of Hawaiian Affairs",
+      "startDate": "November 2021",
+      "summary": "Train and manage data utilizing Dialogflow to produce automated Chatbot responses.",
       "highlights": [
-        "Trained Dialogflow model to produce responses based on user input",
-        "Made it to the finals"
+        "Assist with development of a website with an integrated Chatbot",
+        "Website depicted Office of Hawaiian Affairs, providing automated responses intended for public use"
       ]
     },
     {
       "organization": "Cyber Patriot",
       "website": "www.uscyberpatriot.org/",
-      "position": "AFJROTC Team Commander",
-      "startDate": "2018",
-      "endDate": "2020",
-      "summary": "Lead team during Cyber Patriot competitions",
+      "position": "Team Commander",
+      "startDate": "August 2018",
+      "endDate": " May 2020",
+      "summary": "Lead team during practice to ensure proper Windows systems analysis, CISCO network diagnostics, and Linux systems analysis.",
       "highlights": [
-        "Specialized in Windows 10 OS",
-        "Placed 3rd in the State for JROTC Division"
-      ]
-    },
-    {
-      "organization": "AFJROTC-HI921",
-      "position": "Director of Public Affairs",
-      "startDate": "2019",
-      "endDate": "2020",
-      "summary": "Handle media affairs regarding the entire HI-921 Unit",
-      "highlights": [
-        "Managed and updated Unit-HI921 website",
-        "Record all digital media for Unit-HI921 events"
+        "Placed 3rd in State competition",
+        "Developed core Cyber Security values, Windows 11/10/8 systems analysis skills, and CISCO networking skills"
       ]
     }
   ],
   "work": [
     {
-      "company": "Mathnasium of Waialae",
-      "position": "Instructor",
-      "website": "https://www.mathnasium.com/waialae",
-      "startDate": "2021",
+      "company": "U.S. Courts",
+      "position": "Information Technology and Software Development Intern",
+      "website": "https://www.hid.uscourts.gov/home",
+      "startDate": "June 2023",
       "endDate": "Present",
-      "summary": "Teach math concepts to students pre K-12",
+      "summary": "Provides support in a shared services environment with the U.S. District Court.",
       "highlights": [
-        "Instruct, guide and correct students with regards to any mathematical concept",
-        "Ensure tidiness and organization of Mathnasium center"
+        "Leveraged ReactJS to develop a comprehensive services page, showcasing pertinent information retrieved from a SQL relational database. This involved incorporating data from two distinct services offered by the office, delivering a cohesive and user-friendly interface",
+        "Designed and developed a specialized component enabling users to effortlessly download files via hyperlinks, enhancing the website's functionality and user experience",
+        "Developed a Microsoft Power Apps application for data management, leveraging SharePoint lists and advanced querying"
+      ]
+    },
+    {
+      "company": "Naval Information Warfare Center",
+      "position": "Cyber Security Research Intern",
+      "website": "",
+      "startDate": "January 2023",
+      "endDate": "May 2023",
+      "summary": "Work with Cyber Security Specialists, Navy partners, and University of Hawaii faculty to perform current and relevant Cyber Security research.",
+      "highlights": [
+        "Specialist in Artificial Intelligence research",
+        "Identify weaknesses within current Artificial Intelligence applications in order to draft plans of defense"
       ]
     }
   ],
   "awards": [
     {
+      "title": "Band Scholarship",
+      "date": "August 2020 - Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Recognized for musical leadership and excellence."
+    },
+    {
       "title": "Dean's List",
-      "date": "2020-Present",
+      "date": "August 2020 - December 2022",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Undergraduate students are awarded the Dean's List distinction when they have earned a semester GPA of 3.5 or higher and were enrolled in 12 or more credits for a grade."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
