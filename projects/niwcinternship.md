@@ -19,20 +19,26 @@ summary: I researched about the vulnerabilities that Artificial Intelligence wou
 
 The [Naval Information Warfare Center Pacific](https://www.niwcpacific.navy.mil/About/Who-We-Are/) is dedicated to developing and deploying modern technologies to help the U.S. military as well as its allies. NIWC strives for constant improvement and integration of relevant technologies.
 
-## Internship Overview
+## Internship Overview: Cyber Security Research on Artificial Intelligence
 
-<img class ="ui image" src="https://media.defense.gov/2023/May/22/2003227472/-1/-1/0/230503-N-D4606-007.JPG">
+<img class ="ui image" src="niwcpresentation.jpg">
 
-Through the web application, students and companies are able to create profiles, detailing their location, basic information, and a short description. Student are also able to browse through the companies that have been inputted, along with job opportunities that company may have added to their page. Companies can browse through the list of signed up students, filtering out their interests or directly searching their name up.
+The internship was a collaboration between UH Manoa and NIWC where we were guided by the Faculty and NIWC Professionals along a rigorous research path. During my internship, I had the opportunity to delve into the fascinating field of cyber security, focusing specifically on the intersection of artificial intelligence (AI) and safeguarding digital systems. This overview showcases my research and contributions to this dynamic and rapidly evolving field.
 
-<img class ="ui image" src="/images/rainbowwarriorconnection-browse-companies.png">
+## Objective
 
-## What I contributed
+The primary objective of my internship was to explore the potential vulnerabilities and security challenges associated with the integration of artificial intelligence technologies into various digital systems. By conducting comprehensive research and analysis, I aimed to identify potential risks and develop effective strategies to enhance the security posture of AI-driven applications.
 
-I developed the collections associated with the jobs and the companies attached to them. This includes connecting the form on the "Add Job" page to the actual MongoDB collection, connecting the proper jobs with the proper companies in the collections, and formatting the information from the jobs collections to be used in the frontend company profile pages. I also drafted up the company home and profile page early on in development.
+## Research Methodology
 
-## What I learned
+1. Literature Review: I conducted an extensive review of academic papers, industry reports, and cybersecurity frameworks related to AI and AI security. This allowed me to gain a comprehensive understanding of the applications of AI systems within cyber security and existing threats, mitigation techniques, and best practices in securing AI systems.
 
-I was fortunate to learn about and implement Issue Driven Project Management during the development of this project. I also learned a lot about web development, the utilization of Meteor and React, and the power of MongoDB and its collections. I also got plenty of practice with debugging a web application, as it is a bit more complex than simply placing outputs to the console all over the code to see what runs. Overall, this project was important to my growth as a computing professional.
+2. Identification of Limitations: As part of my research methodology, I critically analyzed the limitations and weaknesses of existing research. This process highlighted areas that required additional attention and provided a foundation for future research directions.
 
-The project repository can be found [here](https://github.com/rainbowwarriorconnection).
+3. Security Framework Development: Based on the insights gained from the identification of limitations, I developed a comprehensive security framework specifically tailored for AI applications. This framework encompassed pre-emptive measures, including secure model training, data validation techniques, and robust model evaluation, to mitigate potential threats.
+
+4. Practical Recommendations: Based on my research findings and analysis, I formulated practical recommendations for enhancing the security of AI systems. These recommendations encompassed technical measures, best practices, and policy considerations, helping organizations and stakeholders navigate the complexities of AI security.
+
+## Conclusion:
+Through my internship, I employed a rigorous research methodology that involved cross-validating research papers and industry reports, identifying gaps, and expanding on existing knowledge. This approach allowed me to contribute to the field of AI security by generating new insights, addressing research gaps, and providing practical recommendations. The impact of my research methodology extends beyond the internship, as it helps shape the future direction of AI security research and contributes to the development of robust cybersecurity practices in the face of evolving threats.
+
