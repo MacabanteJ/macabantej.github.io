@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: niwclogo.jpg
+image: images/niwclogo.jpg
 title: NIWC Cyber Security Research Internship
 permalink: projects/niwcinternship
 # All dates must be YYYY-MM-DD format!
