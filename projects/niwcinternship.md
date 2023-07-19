@@ -21,7 +21,7 @@ The [Naval Information Warfare Center Pacific](https://www.niwcpacific.navy.mil/
 
 ## Internship Overview: Cyber Security Research on Artificial Intelligence
 
-<img class ="ui image" src="niwcpresentation.jpg">
+<img class ="ui image" src="/images/niwcpresentation.jpg">
 
 The internship was a collaboration between UH Manoa and NIWC where we were guided by the Faculty and NIWC Professionals along a rigorous research path. During my internship, I had the opportunity to delve into the fascinating field of cyber security, focusing specifically on the intersection of artificial intelligence (AI) and safeguarding digital systems. This overview showcases my research and contributions to this dynamic and rapidly evolving field.
 
