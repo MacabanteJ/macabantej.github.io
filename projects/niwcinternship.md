@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fnaval-information-warfare-center-pacific&psig=AOvVaw2zEmn90PQN_sCJZ2YyLoh7&ust=1689813584801000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjZnKXEmYADFQAAAAAdAAAAABAE
+image: niwclogo.jpg
 title: NIWC Cyber Security Research Internship
 permalink: projects/niwcinternship
 # All dates must be YYYY-MM-DD format!
@@ -15,13 +15,13 @@ labels:
 summary: I researched about the vulnerabilities that Artificial Intelligence would have within the context of Cyber Security.
 ---
 
-## Final Project Overview
+## Agency Overview
 
-The [Rainbow Warrior Connection](http://159.89.232.121/#/) is a web application developed as our Final Project for the ICS314 Software Engineering course at the University of Hawaii at Manoa. It is [designed](https://courses.ics.hawaii.edu/ics314s22/morea/final-project/reading-project-company-connector.html) to connect local computer science and engineering students with companies that have job opportunities. 
+The [Naval Information Warfare Center Pacific](https://www.niwcpacific.navy.mil/About/Who-We-Are/) is dedicated to developing and deploying modern technologies to help the U.S. military as well as its allies. NIWC strives for constant improvement and integration of relevant technologies.
 
-## Rainbow Warrior Connection
+## Internship Overview
 
-<img class ="ui image" src="/images/rainbowwarriorconnection-homepage.png">
+<img class ="ui image" src="https://media.defense.gov/2023/May/22/2003227472/-1/-1/0/230503-N-D4606-007.JPG">
 
 Through the web application, students and companies are able to create profiles, detailing their location, basic information, and a short description. Student are also able to browse through the companies that have been inputted, along with job opportunities that company may have added to their page. Companies can browse through the list of signed up students, filtering out their interests or directly searching their name up.
 
