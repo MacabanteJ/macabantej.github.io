@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://www.hid.uscourts.gov/static/media/NewPOPTS_SealTemplate.6ada2bdd20e0a4f7c520.png
+image: images/ppsoseal.png
 title: U.S. Courts Internship
 permalink: projects/uscourtsinternship
 # All dates must be YYYY-MM-DD format!
@@ -17,24 +17,19 @@ labels:
 summary: I developed local applications within the infrastructure of the U.S. Courts in Hawaii.
 ---
 
-## Final Project Overview
+## Internship Overview: Web Development, User Interface Design, and Data Management
 
-The [Rainbow Warrior Connection](http://159.89.232.121/#/) is a web application developed as our Final Project for the ICS314 Software Engineering course at the University of Hawaii at Manoa. It is [designed](https://courses.ics.hawaii.edu/ics314s22/morea/final-project/reading-project-company-connector.html) to connect local computer science and engineering students with companies that have job opportunities. 
+Throughout my summer internship at the [U.S. Courts](https://www.hid.uscourts.gov/home), I had the opportunity to contribute to various projects involving web development, user interface design, and data management. This overview showcases my key accomplishments and contributions during this internship.
 
-## Rainbow Warrior Connection
+## Web Development:
 
-<img class ="ui image" src="/images/rainbowwarriorconnection-homepage.png">
+One of my primary responsibilities was leveraging ReactJS, a popular JavaScript library, to develop a comprehensive services page for the office's website. By incorporating data retrieved from a SQL relational database, I implemented a dynamic and user-friendly page and components. This page seamlessly integrated information from two distinct services offered by the office, providing visitors with a cohesive experience. The development process involved utilizing my skills in ReactJS, HTML, and CSS to ensure the effective presentation of relevant information.
 
-Through the web application, students and companies are able to create profiles, detailing their location, basic information, and a short description. Student are also able to browse through the companies that have been inputted, along with job opportunities that company may have added to their page. Companies can browse through the list of signed up students, filtering out their interests or directly searching their name up.
+## User Interface Design:
 
-<img class ="ui image" src="/images/rainbowwarriorconnection-browse-companies.png">
+Recognizing the importance of enhancing the website's functionality and user experience, I designed and developed a specialized component. This component enabled users to effortlessly download files via hyperlinks, streamlining the process and improving accessibility. By implementing intuitive design principles and leveraging my proficiency in front-end development technologies, I contributed to an enhanced user interface that simplified file retrieval and improved overall usability.
 
-## What I contributed
+## Data Management:
 
-I developed the collections associated with the jobs and the companies attached to them. This includes connecting the form on the "Add Job" page to the actual MongoDB collection, connecting the proper jobs with the proper companies in the collections, and formatting the information from the jobs collections to be used in the frontend company profile pages. I also drafted up the company home and profile page early on in development.
+In addition to web development, I had the opportunity to develop a Microsoft Power Apps application for data management. Leveraging SharePoint lists and advanced querying techniques, I independently created an application that facilitated efficient data management processes within the office. This involved creating a user-friendly interface, implementing data validation rules, and optimizing querying capabilities to ensure accurate and streamlined data retrieval. Through this project, I strengthened my proficiency in Microsoft Power Apps and demonstrated my ability to develop practical solutions for data management challenges.
 
-## What I learned
-
-I was fortunate to learn about and implement Issue Driven Project Management during the development of this project. I also learned a lot about web development, the utilization of Meteor and React, and the power of MongoDB and its collections. I also got plenty of practice with debugging a web application, as it is a bit more complex than simply placing outputs to the console all over the code to see what runs. Overall, this project was important to my growth as a computing professional.
-
-The project repository can be found [here](https://github.com/rainbowwarriorconnection).
