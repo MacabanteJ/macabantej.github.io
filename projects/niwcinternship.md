@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Kermit-Logo-V1.png
+image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fnaval-information-warfare-center-pacific&psig=AOvVaw2zEmn90PQN_sCJZ2YyLoh7&ust=1689813584801000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjZnKXEmYADFQAAAAAdAAAAABAE
 title: NIWC Cyber Security Research Internship
 permalink: projects/niwcinternship
 # All dates must be YYYY-MM-DD format!

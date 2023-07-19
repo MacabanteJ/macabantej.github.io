@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Kermit-Logo-V1.png
+image: https://www.hid.uscourts.gov/static/media/NewPOPTS_SealTemplate.6ada2bdd20e0a4f7c520.png
 title: U.S. Courts Internship
 permalink: projects/uscourtsinternship
 # All dates must be YYYY-MM-DD format!
