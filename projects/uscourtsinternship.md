@@ -2,17 +2,19 @@
 layout: project
 type: project
 image: images/Kermit-Logo-V1.png
-title: NIWC Cyber Security Research Internship
-permalink: projects/niwcinternship
+title: U.S. Courts Internship
+permalink: projects/uscourtsinternship
 # All dates must be YYYY-MM-DD format!
-date: 2023-01-03
+date: 2023-06-05
 labels:
-  - Cyber Security Research
-  - Artificial Intelligence
-  - Machine Learning
-  - Risk Management
-  - Interpretable AI
-summary: I researched about the vulnerabilities that Artificial Intelligence would have within the context of Cyber Security.
+  - Software Development
+  - Information Technology
+  - React
+  - Electron
+  - SQL/SQLite
+  - Sharepoint List
+  - Power Apps
+summary: I developed local applications within the infrastructure of the U.S. Courts in Hawaii.
 ---
 
 ## Final Project Overview
