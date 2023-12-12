@@ -15,10 +15,10 @@ labels:
 This past Fall semester at the University of Hawaii at Manoa, I embarked on a comprehensive group project that involved revamping a crucial web application, HACC Hui. This application was utilized by the Hawaii Annual Code Challenge (or HACC, for short), required significant updates to enhance its functionality, user experience, and to modernize the code base.
 
 ## Project Overview
-The core objective of our project was to modernize HACC Hui. This involved transitioning from an outdated class-based React framework using Meteor and Semantic-UI to a more current setup with React-Bootstrap. Our task list was extensive: converting various pages and components to Bootstrap, replacing underscore functions, shifting from withTracker to useTracker, implementing functional React, and introducing unit testing.
+The objective of our project was to modernize HACC Hui. This involved changing from an outdated class-based React framework using Meteor and Semantic-UI to a function-based React, utilizing React-Bootstrap. Overall, we had to: convert various pages and components to Bootstrap, replace all underscore functions, change from withTracker to useTracker, implement function-based React, and introduce unit testing for each page.
 
 ## My Contributions
-My role was pivotal in several areas. I was responsible for converting pages like Signin.jsx and ParticipantForm.jsx, along with numerous components and administrator pages, to Bootstrap. Writing acceptance tests for these conversions to ensure their smooth functionality was also part of my remit. Refactoring TestCafe test cases to align with the updated codebase was another significant contribution.
+I was responsible for converting pages like Signin.jsx and ParticipantForm.jsx, along with numerous components and administrator pages, to Bootstrap. I also refactored all the test cases at the end to align with the updated codebase and to significantly speed up testing time. Prior to this, each page would have to sign in individually, wasting lots of time on functionality that was already tested prior.
 
 ## Challenges Faced
 The journey wasn't devoid of challenges. The most prominent hurdles included understanding and refactoring legacy code, adhering to tight deadlines, and maintaining effective communication within the team. Additionally, the technical aspects, like mastering React-Bootstrap and ensuring the reliability of the converted pages through testing, were demanding.
