@@ -1,29 +1,39 @@
 ---
 layout: essay
 type: essay
-title: The Price Framers Face
+title: Refactoring and Resilience: Navigating the Challenges of Modernizing HACC Hui in ICS414
 # All dates must be YYYY-MM-DD format!
-date: 2022-02-24
+date: 2023-12-11
 labels:
   - Software Engineering
-  - UI Frameworks
+  - React
+  - Meteor
+  - MongoDB
 ---
 
-## What are UI frameworks
-An important aspect of software engineering is the development of web pages. Everybody uses the internet which has caused a unique era of global communication. The easiest way for companies to provide access points to their products are through web pages. The development of web pages started off almost primitively. Every web page had the same barebones white background, blue hyperlinks, and basic theming. HTML has very little customization and design capabilities, mainly allowing for the placement of information. CSS was introduced in order to allow groups (or divs) of information that was written in HTML to be specifically styled. While CSS helped bring web pages to life, engineers found it too difficult to create large scale projects with a consistent theme. Thus, people thought to create a blueprint that allows engineers to take elements of CSS and upscale it to allow quicker development of projects, which are called “UI Frameworks”.
+## Introduction
+As a college student enrolled in ICS414, I embarked on a comprehensive group project that involved revamping a crucial web application, HACC Hui. This application, integral to the Hawaii Annual Code Challenge (HACC), required significant updates to enhance its functionality and user experience.
 
-## The Past
-Reddit is a forum that has risen to prominence since its creation in 2005. Old Reddit was basically all coded in pure HTML and CSS resulting in this basic design. 
+## Project Overview
+The core objective of our project was to modernize HACC Hui. This involved transitioning from an outdated class-based React framework using Meteor and Semantic-UI to a more current setup with React-Bootstrap. Our task list was extensive: converting various pages and components to Bootstrap, replacing underscore functions, shifting from withTracker to useTracker, implementing functional React, and introducing unit testing.
 
-<img class="ui image" src="/images/old-reddit.png">
+## My Contributions
+My role was pivotal in several areas. I was responsible for converting pages like Signin.jsx and ParticipantForm.jsx, along with numerous components and administrator pages, to Bootstrap. Writing acceptance tests for these conversions to ensure their smooth functionality was also part of my remit. Refactoring TestCafe test cases to align with the updated codebase was another significant contribution.
 
-While there may have been frameworks in place already, they are not sophisticated at all and are mainly for thematics and simplification. The site was very basic, not even including any image previews for posts. However, it included the necessary functions for the purpose of being a platform that allows users to share their experiences and knowledge with one another.
+## Challenges Faced
+The journey wasn't devoid of challenges. The most prominent hurdles included understanding and refactoring legacy code, adhering to tight deadlines, and maintaining effective communication within the team. Additionally, the technical aspects, like mastering React-Bootstrap and ensuring the reliability of the converted pages through testing, were demanding.
 
-## The Present
+## Overcoming Obstacles
+Overcoming these challenges required a multifaceted approach. I invested time in self-learning to better understand React-Bootstrap and functional React. Collaborating closely with my team, seeking feedback, and engaging in problem-solving sessions helped me navigate the complexities of the project. Most importantly, improving my time management and communication skills was vital in meeting deadlines and keeping the team updated on my progress.
 
-<img class="ui image" src="/images/new-reddit.png">
+## Highlights of the Project
+A notable highlight was the successful conversion of the Signin.jsx and ParticipantForm.jsx pages. These pages were central to the user experience, and their smooth transition to Bootstrap marked a significant milestone in our project. Additionally, the implementation of unit testing for each converted page not only ensured functionality but also instilled a culture of quality assurance within the team.
 
-Currently, Reddit is one of the top social media platforms in the United States and has millions of daily active users. The website has undergone massive changes in design since it’s launch in 2005 and it continues to become more intuitive and helpful. There are now ways to sort subreddits based on how popular a post might have become recently, how new it is, or how popular it is on the subreddit overall. While these changes may not have been directly caused by the use and improvement of Reddit’s proprietary framework, an [admin on Reddit](https://www.reddit.com/r/iOSProgramming/comments/a7yrkq/what_framework_was_used_to_build_the_reddit_app/) has stated that external frameworks have been utilized in cohesion with the main RedditUI.
+## Learning and Growth
+This project was a profound learning experience. It not only enhanced my technical skills in software development but also honed my soft skills like teamwork, communication, and time management. Understanding and improving upon legacy code provided a real-world insight into the challenges and responsibilities of a software developer.
 
-## The Takeaway
-UI Frameworks have emerged in order to simplify the process of developing and theming aspects of markdown languages like HTML. While there are many benefits to utilizing frameworks, a very early [Reddit post](http://web.archive.org/web/20051230225515/http://discuss.joelonsoftware.com/default.asp?joel.3.219431) has an interesting analogy about why they dislike frameworks. Learning about the inner workings of a framework can become tedious and hard to manage, similar to learning a new language. With there being many different frameworks out there, managing how to manage the frameworks can become tricky as well. Frameworks have many different inner workings and it’s very frustrating when you can’t do something that seems simple. The choice to utilize frameworks or not is all up to the developer and if it works for their situation.
+## Overall Review of ICS414
+Reflecting on the ICS414 course, it stands out as a highly valuable and practical experience in my educational journey. The course effectively bridged the gap between theoretical knowledge and real-world application, providing hands-on experience in software development. The challenges faced were as enriching as the technical skills gained, shaping me into a more competent and versatile software developer.
+
+## Conclusion
+In conclusion, my experience in ICS414 was both challenging and rewarding. It offered a comprehensive understanding of the intricacies of software development in a team setting and equipped me with essential skills for my future career in the tech industry. The journey, with its ups and downs, was a testament to the importance of continuous learning, collaboration, and adaptability in the ever-evolving field of software development.
