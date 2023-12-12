@@ -14,6 +14,8 @@ labels:
 ## Introduction
 This past Fall semester at the University of Hawaii at Manoa, I embarked on a comprehensive group project that involved revamping a crucial web application, HACC Hui. This application was utilized by the Hawaii Annual Code Challenge (or HACC, for short), required significant updates to enhance its functionality, user experience, and to modernize the code base.
 
+<img class ="ui image" src="/images/original_hacc_landing_page.png">
+
 ## Project Overview
 The objective of our project was to modernize HACC Hui. This involved changing from an outdated class-based React framework using Meteor and Semantic-UI to a function-based React, utilizing React-Bootstrap. Overall, we had to: convert various pages and components to Bootstrap, replace all underscore functions, change from withTracker to useTracker, implement function-based React, and introduce unit testing for each page.
 
