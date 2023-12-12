@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Refactoring and Resilience: Navigating the Challenges of Modernizing HACC Hui in ICS414
+title: Navigating the Challenges of Modernizing HACC Hui in ICS414
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-11
 labels:
@@ -12,7 +12,7 @@ labels:
 ---
 
 ## Introduction
-As a college student enrolled in ICS414, I embarked on a comprehensive group project that involved revamping a crucial web application, HACC Hui. This application, integral to the Hawaii Annual Code Challenge (HACC), required significant updates to enhance its functionality and user experience.
+This past Fall semester at the University of Hawaii at Manoa, I embarked on a comprehensive group project that involved revamping a crucial web application, HACC Hui. This application was utilized by the Hawaii Annual Code Challenge (or HACC, for short), required significant updates to enhance its functionality, user experience, and to modernize the code base.
 
 ## Project Overview
 The core objective of our project was to modernize HACC Hui. This involved transitioning from an outdated class-based React framework using Meteor and Semantic-UI to a more current setup with React-Bootstrap. Our task list was extensive: converting various pages and components to Bootstrap, replacing underscore functions, shifting from withTracker to useTracker, implementing functional React, and introducing unit testing.
