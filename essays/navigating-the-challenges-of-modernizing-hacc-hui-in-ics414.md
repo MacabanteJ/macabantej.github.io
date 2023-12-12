@@ -22,6 +22,8 @@ The objective of our project was to modernize HACC Hui. This involved changing f
 ## My Contributions
 I was responsible for converting pages like Signin.jsx and ParticipantForm.jsx, along with numerous components and administrator pages, to Bootstrap. I also refactored all the test cases at the end to align with the updated codebase and to significantly speed up testing time. Prior to this, each page would have to sign in individually, wasting lots of time on functionality that was already tested prior.
 
+<img class ="ui image" src="/images/hacc_suggestions_list.png">
+
 ## Challenges Faced
 There were numerous challenged that I encountered along the way. The hurdles included understanding and refactoring legacy code, adhering to milestone deadlines, and maintaining effective communication within the team. Additionally, the technical aspects, like mastering React-Bootstrap and ensuring the reliability of the converted pages through testing, were demanding. A more specific technical challenge came towards the end, when I had the goal to utilize the Role class in testcafe to reduce sign in time. This way did not work due to the inconsistent asynchronous timing of numerous functions that happened in the background of our application, which made me pivot to a simpler alternative.
 
